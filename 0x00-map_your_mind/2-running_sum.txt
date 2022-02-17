@@ -1,0 +1,8 @@
+#begin
+// store the runnig sum on a variable
+//input a number
+	//if the number is positive
+		// runnig_sum = number + runnig_sm
+	//else 
+		// stop the programm
+#end
