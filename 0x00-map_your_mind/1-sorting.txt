@@ -1,0 +1,6 @@
+#begin
+// Initialize the number of incrementation
+//put the three numbers in a list
+	// while list < 4
+		// print path
+		//path = path + 1 
