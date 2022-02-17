@@ -1,0 +1,8 @@
+#begin
+// Initialize a variable to hold the sum of the number
+//input numbers
+//loop over numbers
+	//square each number
+	//make the somme of numbers
+	//give the result of some to the sum holder
+#end 
